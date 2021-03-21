@@ -27,7 +27,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   该项目是基于 https://m.maizuo.com （卖座网） 仿制制作的VUE单网页项目
 
 ### 项目结构
-  电影
+  # 电影
     一个浮动 和 sticky 城市
     轮播图
     导航栏
@@ -38,14 +38,14 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
         大图片
         演职人员
         剧照
-  影院
+  # 影院
     固定标题
       城市
       标题
       搜索
     导航栏
     长列表内容
-  我的
+  # 我的
     登录页面
     订单
       电影订单
